@@ -1,0 +1,6 @@
+def cards():
+  card=makePicture("C:/Users/Emily/Desktop/BITS/Route cards/Playing_Board_Small.png")
+  explore(card)
+  w=getWidth(card)
+  h=getHeight(card)
+  print w,h
